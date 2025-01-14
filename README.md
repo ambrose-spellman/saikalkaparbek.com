@@ -1,2 +1,2 @@
-# saikalkaparbekova.me
+# saikalkaparbek.com
 personal website
