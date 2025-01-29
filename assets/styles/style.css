@@ -857,6 +857,7 @@ body {
   .personal-info {
     margin-bottom: 80px;
     flex-direction: row;
+    margin-top: 36px;
   }
   .personal-info img {
     width: 45%;
